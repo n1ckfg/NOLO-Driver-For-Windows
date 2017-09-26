@@ -2,10 +2,12 @@
 NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
  
 ## Release Notes
-NOLO Driver for Windows 0.9.0 update
+NOLO Driver for Windows 0.10.0 update
 
-1. Fix an display bug caused by changing Lauguage on the driver.
-2. Add an option to customize the button for 180 degree turn around function.
+1. Fixed the problem that the touchpad automatically triggers without touching it.
+2. Divide the touchpad into four buttons(Trackpad Left,Trackpad Right,Trackpad Up,Trackpad Down).
+3. Replaced the icon of the NOLO controller driver on the SteamVR.
+4. Replaced the controller model in visualizer.
 
 
 

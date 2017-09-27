@@ -5,7 +5,7 @@ NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
 NOLO Driver for Windows 0.10.0 update
 
 1. Fixed the problem that the touchpad automatically triggers without touching it.
-2. Divide the touchpad into four buttons(Trackpad Left,Trackpad Right,Trackpad Up,Trackpad Down).
+2. Divided the touchpad into four buttons (Trackpad Left, Trackpad Right, Trackpad Up, Trackpad Down).
 3. Replaced the icon of the NOLO controller driver on the SteamVR.
 4. Replaced the controller model in visualizer.
 

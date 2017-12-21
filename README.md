@@ -4,7 +4,7 @@ NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
 ## Release Notes
 NOLO Driver Version 0.12 Update Notice
 
-1.  Added a white dot to inditace touch signal on the touch panel within the visualizer. 
+1.  Added a white dot to indicate touch signal on the touch panel within the visualizer. 
     
 
 

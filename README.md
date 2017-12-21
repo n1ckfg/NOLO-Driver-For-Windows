@@ -2,14 +2,9 @@
 NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
  
 ## Release Notes
-NOLO Driver Version 0.11 Update Notice
+NOLO Driver Version 0.12 Update Notice
 
-1.  Added firmware updater  
-    - In this release, headset marker and controllers will be updated
-2. Compatible with new firmware  
-    - With the updated firmware, previous version of the nolo driver (0.10 or older) will no longer be supported
-3. Added user-mode switching interface  
-    - Users will be able to switch between normal (front-facing) mode and ceiling mode  
+1.  Added a white dot to inditace touch signal on the touch panel within the visualizer. 
     
 
 

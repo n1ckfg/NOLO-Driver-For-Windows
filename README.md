@@ -23,5 +23,3 @@ Follow [the install description](./Docs/Install-Description.MD)([安装说明](.
 
 
 You can find help and submit questions [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/issues).
-
-# To test my access to this repository -- Lyuzhou 

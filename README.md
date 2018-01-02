@@ -1,25 +1,24 @@
 # NOLO-Driver-For-Windows
-NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
+NOLO-Driver-For-Windows for [NOLOVR](https://www.nolovr.com/).
  
-## Release Notes
-NOLO Driver Version 0.12 Update Notice
+## Downloads
+[NOLO-Driver-For-Windows](./NOLOVR)
 
-1.  Added a white dot to indicate touch signal on the touch panel within the visualizer. 
-    
-
-
-## Installation and use
-NOLO-Driver-For-Windows operational environment requirements:  
-
+## System requirements
 1. Windows7 64 bit system above.
 2. Microsoft .NET Framework 4.5.
 3. Microsoft Visual C++ 2013 Redistributable(x64).
 4. Microsoft Visual C++ 2015 Redistributable(x64).
 
-Download [NOLO-Driver-For-Windows](./NOLOVR).  
+## Getting Started
+### Installing
+Follow the [instructions](./Docs/Install-Description.MD) ([安装说明](./Docs/Install-Description_cn.MD)) and install NOLO-Driver-For-Windows. 
 
+### Running NOLO
+Follow the [user guide](./Docs/Instructions.MD) ([使用说明](./Docs/Instructions_cn.MD)) to use this software.
 
-Follow [the install description](./Docs/Install-Description.MD)([安装说明](./Docs/Install-Description_cn.MD)) to install the NOLO-Driver-For-Windows,and the [Intruction](./Docs/Instructions.MD)([使用说明](./Docs/Instructions_cn.MD)) to use this software.
+## Help & Discussions
+Get help and submit questions [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/issues).
 
-
-You can find help and submit questions [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/issues).
+## Release notes
+See release notes [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/releases).

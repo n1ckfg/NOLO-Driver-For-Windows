@@ -12,13 +12,13 @@ NOLO-Driver-For-Windows for [NOLOVR](https://www.nolovr.com/).
 
 ## Getting Started
 ### Installing
-Follow the [instructions](./Docs/Install-Description.MD) ([安装说明](./Docs/Install-Description_cn.MD)) and install NOLO-Driver-For-Windows. 
+Please follow the [instructions](./Docs/Install-Description.MD) ([安装说明](./Docs/Install-Description_cn.MD)) here and install NOLO-Driver-For-Windows. 
 
 ### Running NOLO
-Follow the [user guide](./Docs/Instructions.MD) ([使用说明](./Docs/Instructions_cn.MD)) to use this software.
+Please refer to NOLO-Driver-For-Windows [user guide](./Docs/Instructions.MD) ([使用说明](./Docs/Instructions_cn.MD)).
 
 ## Help & Discussions
 Get help and submit questions [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/issues).
 
 ## Release notes
-See release notes [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/releases).
+View release notes [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/releases).

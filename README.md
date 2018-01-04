@@ -20,5 +20,5 @@ Please refer to NOLO-Driver-For-Windows [user guide](./Docs/Instructions.MD) ([ä
 ## Help & Discussions
 Get help and submit questions [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/issues).
 
-## Updates
+## Release notes
 View release notes [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/releases).

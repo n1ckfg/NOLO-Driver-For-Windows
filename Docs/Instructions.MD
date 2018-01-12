@@ -1,31 +1,33 @@
 # Instructions
-## Start up
-Double click desktop shortcut to open.
+## Setup
+1. Double click Nolo desktop shortcut to open.
 <div align=center><img width = 80 heigh = 80 src="./Pic/Instructions1.jpg"></div>  
 
-NOLO-Driver-For-Windows will run minimize to the tray.
-<div align=center><img width = 180 heigh = 80 src="./Pic/Instructions2.png"></div>  
-Right click: 
+2. NOLO-Driver-For-Windows will open and automatically be minimized to the taskbar.
+<div align=center><img width = 180 heigh = 80 src="./Pic/Instructions2.png"></div> 
+
+3. Right click the Nolo icon on the taskbar. It'll show the current connection state. (Not connected)
 <div align=center><img width = 180 heigh = 80 src="./Pic/Instructions5.png"></div>    
 
-Plug the headset marker in computer.The correct state as shown:  
- 
+4. Turn on all Nolo devices and connect the headset marker to your PC via USB port. The connection state should be as below:  
 <div align=center><img width = 180 heigh = 80 src="./Pic/Instructions6.png"></div>  
 
-About Connection Status:Check the device connection status and power.  
-About RiftCat/Trinus:
-- Gear VR:Use Gear VR Play SteamVR.
-- CardBoard:Use Other VR helmet Play SteamVR.  
+## Notes
+* About Connection Status: Show Nolo connection status and battery life.  
 
-About Frimware Upgrade:  
+* About RiftCat/Trinus:
+    - Gear VR: Choose "Gear VR" mode if you use Samsung phones + Gear VR 
+    - CardBoard: Choose "Cardboard" mode when you use all other VR helmets.  
 
-About Languages:Only supports Chinese and English.  
+* About Frimware Update:
 
-About Help:Get more help from the web.  
+* About Languages: Currently supports Chinese and English.  
 
-About Check:Check if there is a new version.  
+* About Help: Get support online.  
 
-About Exit:Close NOLO.
+* About Check: Check for software update.  
+
+* About Exit: Exit NOLO.
 
 
 

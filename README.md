@@ -5,10 +5,10 @@ This is the [NOLO](https://www.nolovr.com/) PC software. Some games may require 
 [NOLO-Driver-For-Windows](./NOLOVR)
 
 ## System requirements
-1. Windows7 64 bit system & above.
-2. Microsoft .NET Framework 4.5.
-3. Microsoft Visual C++ 2013 Redistributable(x64).
-4. Microsoft Visual C++ 2015 Redistributable(x64).
+- Windows7 64 bit system & above.
+- Microsoft .NET Framework 4.5.
+- Microsoft Visual C++ 2013 Redistributable(x64).
+- Microsoft Visual C++ 2015 Redistributable(x64).
 
 ## Getting Started
 ### Installing

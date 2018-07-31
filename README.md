@@ -1,5 +1,7 @@
 # NOLO-Driver-For-Windows
 This is the [NOLO](https://www.nolovr.com/) PC software. Some games may require this be installed on your PC to work with nolo devices.
+
+**Important notice: NOLO-Driver-For-Windows will no longer be maintained. Pleast download NOLO Assistant [here](http://download.nolovr.com/download/NOLOASSISTANT_Setup.exe).**
  
 ## Downloads
 [NOLO-Driver-For-Windows](./NOLOVR)
